@@ -13,4 +13,4 @@
 - Ver quantidade de curtidas em uma postagem
 - Ver comentarios de uma postagem
 - Curtir postagens de terceiros
-- CRealizar comentario em postagens
+- Comentar em postagens de outros perfis
